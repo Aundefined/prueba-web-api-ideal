@@ -1,0 +1,9 @@
+C:\Users\arnaud.tartulier\source\repos\WebApplication1\Valores\bin\Debug\netstandard2.0\Valores.deps.json
+C:\Users\arnaud.tartulier\source\repos\WebApplication1\Valores\bin\Debug\netstandard2.0\Valores.dll
+C:\Users\arnaud.tartulier\source\repos\WebApplication1\Valores\bin\Debug\netstandard2.0\Valores.pdb
+C:\Users\arnaud.tartulier\source\repos\WebApplication1\Valores\obj\Debug\netstandard2.0\Valores.csproj.CoreCompileInputs.cache
+C:\Users\arnaud.tartulier\source\repos\WebApplication1\Valores\obj\Debug\netstandard2.0\Valores.AssemblyInfoInputs.cache
+C:\Users\arnaud.tartulier\source\repos\WebApplication1\Valores\obj\Debug\netstandard2.0\Valores.AssemblyInfo.cs
+C:\Users\arnaud.tartulier\source\repos\WebApplication1\Valores\obj\Debug\netstandard2.0\Valores.dll
+C:\Users\arnaud.tartulier\source\repos\WebApplication1\Valores\obj\Debug\netstandard2.0\Valores.pdb
+C:\Users\arnaud.tartulier\source\repos\WebApplication1\Valores\obj\Debug\netstandard2.0\Valores.csprojAssemblyReference.cache
